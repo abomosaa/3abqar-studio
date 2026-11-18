@@ -1,12 +1,12 @@
-# Alnair Studio | استوديو النيّر
+# Abqar Studio | عبقر ستوديو
 
-A bilingual (English / Arabic) one-page website for **Alnair Studio**, a Saudi studio for UI/UX design, web and mobile development, Supabase back-ends and AI integration.
+A bilingual (English / Arabic) one-page website for **Abqar Studio**, a Saudi studio for UI/UX design, web and mobile development, Supabase back-ends and AI integration.
 
-موقع تعريفي من صفحة واحدة بالعربية والإنجليزية لـ **استوديو النيّر**.
+موقع تعريفي من صفحة واحدة بالعربية والإنجليزية لـ **عبقر ستوديو**.
 
 **Live:** https://abomosaa.github.io/alnair-studio/
 
-> *Alnair* (النيّر, "the bright one") is a star whose international name comes from Arabic: a guiding light for the "night desert" identity.
+> *Abqar* (عبقر) is the legendary valley in Arab lore that gave us the word *abqari* (عبقري), "genius": anything made with remarkable skill.
 
 ## Highlights
 
