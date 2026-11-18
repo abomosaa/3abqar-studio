@@ -411,7 +411,7 @@ var PROJECTS = [
     links: [{ type: 'live', url: 'https://abomosaa.github.io/haraj-radar/' }, { type: 'github', url: 'https://github.com/abomosaa/haraj-radar' }]
   },
   {
-    id: 'alnair-studio', cats: ['web', 'brand'], year: '2026', client: { en: '', ar: '' }, duration: { en: '', ar: '' },
+    id: '3abqar-studio', cats: ['web', 'brand'], year: '2026', client: { en: '', ar: '' }, duration: { en: '', ar: '' },
     cover: { img: 'assets/work/alnair-hero.png' },
     gallery: ['assets/work/alnair-brand-colour.jpg', 'assets/work/alnair-brand-type.jpg', 'assets/work/alnair-brand-components.jpg'],
     title: { en: '3abqar Studio website', ar: 'موقع عبقر ستوديو' },
@@ -424,7 +424,7 @@ var PROJECTS = [
       ar: ['تبديل اللغة بضغطة مع قلب اتجاه الصفحة بالكامل', 'واجهة رئيسية تفاعلية وعرض حجز تجريبي', 'نظام هوية: الألوان والخطوط والنقش والمكونات', 'نموذج تواصل يرسل الطلبات إلى واتساب']
     },
     tools: { design: ['Google Fonts'], front: ['HTML', 'CSS', 'JavaScript'], platform: ['GitHub Pages', 'Git'] },
-    links: [{ type: 'site', url: 'https://abomosaa.github.io/alnair-studio/' }, { type: 'github', url: 'https://github.com/abomosaa/alnair-studio' }]
+    links: [{ type: 'site', url: 'https://abomosaa.github.io/3abqar-studio/' }, { type: 'github', url: 'https://github.com/abomosaa/3abqar-studio' }]
   },
   {
     id: 'elbahari-studios', cats: ['web'], year: '', client: { en: 'Elbahari Studios', ar: 'استوديوهات البحري' }, duration: { en: '', ar: '' },
@@ -637,11 +637,11 @@ var PROJECTS = [
     });
     document.title = TITLE[l];
     renderFilters(); renderGrid(); if (current > -1) renderProject();
-    try { localStorage.setItem('alnair-lang', l); } catch (e) {}
+    try { localStorage.setItem('3abqar-lang', l); } catch (e) {}
   }
   document.querySelectorAll('.q-lang button').forEach(function (b) { b.addEventListener('click', function () { setLang(b.dataset.lang); }); });
   var start = 'en';
-  try { start = new URLSearchParams(location.search).get('lang') || localStorage.getItem('alnair-lang') || 'en'; } catch (e) {}
+  try { start = new URLSearchParams(location.search).get('lang') || localStorage.getItem('3abqar-lang') || 'en'; } catch (e) {}
   setLang(start === 'ar' ? 'ar' : 'en');
 
   /* deep link: work.html#haraj-radar */
