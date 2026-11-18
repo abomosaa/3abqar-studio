@@ -4,7 +4,7 @@ A bilingual (English / Arabic) one-page website for **3abqar Studio**, a Saudi s
 
 موقع تعريفي من صفحة واحدة بالعربية والإنجليزية لـ **عبقر ستوديو**.
 
-**Live:** https://abomosaa.github.io/alnair-studio/
+**Live:** https://abomosaa.github.io/3abqar-studio/
 
 > *3abqar* (عبقر) is the legendary valley in Arab lore that gave us the word *abqari* (عبقري), "genius": anything made with remarkable skill.
 
