@@ -781,11 +781,11 @@
     document.title = TITLE[l];
     renderMarq(); showUse(uIdx);
     document.querySelectorAll('a[href^="work.html"]').forEach(function (a) { a.setAttribute('href', 'work.html' + (l === 'ar' ? '?lang=ar' : '')); });
-    try { localStorage.setItem('alnair-lang', l); } catch (e) {}
+    try { localStorage.setItem('3abqar-lang', l); } catch (e) {}
   }
   document.querySelectorAll('.q-lang button').forEach(function (b) { b.addEventListener('click', function () { setLang(b.dataset.lang); }); });
   var start = 'en';
-  try { start = new URLSearchParams(location.search).get('lang') || localStorage.getItem('alnair-lang') || 'en'; } catch (e) {}
+  try { start = new URLSearchParams(location.search).get('lang') || localStorage.getItem('3abqar-lang') || 'en'; } catch (e) {}
   setLang(start === 'ar' ? 'ar' : 'en');
   document.querySelectorAll('.use').forEach(function (t) { t.addEventListener('click', function () { showUse(+t.dataset.u); }); });
 
