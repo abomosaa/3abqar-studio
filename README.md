@@ -1,12 +1,12 @@
-# Abqar Studio | عبقر ستوديو
+# 3abqar Studio | عبقر ستوديو
 
-A bilingual (English / Arabic) one-page website for **Abqar Studio**, a Saudi studio for UI/UX design, web and mobile development, Supabase back-ends and AI integration.
+A bilingual (English / Arabic) one-page website for **3abqar Studio**, a Saudi studio for UI/UX design, web and mobile development, Supabase back-ends and AI integration.
 
 موقع تعريفي من صفحة واحدة بالعربية والإنجليزية لـ **عبقر ستوديو**.
 
 **Live:** https://abomosaa.github.io/alnair-studio/
 
-> *Abqar* (عبقر) is the legendary valley in Arab lore that gave us the word *abqari* (عبقري), "genius": anything made with remarkable skill.
+> *3abqar* (عبقر) is the legendary valley in Arab lore that gave us the word *abqari* (عبقري), "genius": anything made with remarkable skill.
 
 ## Highlights
 
